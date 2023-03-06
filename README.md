@@ -1,11 +1,11 @@
-# ihome
+# intelighome
 <body>
   <h2>
   ihome safe and secure homw for every one 
   </h2>
   <p>
     hello 
-this "ihome" project is made by "medricho" who live in Alborz iran 
+this "intelighome" project is made by "medricho" who live in Alborz iran 
 this is project of arduino and app inventor, and made by me to controll the home elements connected to arduino 
 this is a beta version of my Big Project it could be a great and professional start-up, so please dont copy my idea\
     </p>
