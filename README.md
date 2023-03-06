@@ -1,7 +1,7 @@
 # intelighome
 <body>
   <h2>
-  ihome safe and secure homw for every one 
+  intelighome safe and secure homw for every one 
   </h2>
   <p>
     hello 
